@@ -2,10 +2,10 @@
 
 ## Integrantes
 
-Brenda Thais Ribeiro dos Santos
-Clara Barboza Costa
-Lucas Santana Silva
-Pedro Henrique Lamin Rodrigues
+Brenda Thais Ribeiro dos Santos </br>
+Clara Barboza Costa </br>
+Lucas Santana Silva </br>
+Pedro Henrique Lamin Rodrigues </br>
 
 ## Links
 
